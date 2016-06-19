@@ -12,6 +12,7 @@
 
 
 ##Algorithm Preparation
+#####End Goal: Finish 70% of Coding practice on lintcode
 **For Each Algorithm Problem, use the following rubric**
 * Understanding how and why the solution works. 
 * What's the motivation behind the problem
