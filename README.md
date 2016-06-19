@@ -7,7 +7,7 @@
 |Work out Plan        |
 |Read                 |
 |Time management      |
-|British Accen        |
+|British Accent       |
 |Be curious           |
 
 
