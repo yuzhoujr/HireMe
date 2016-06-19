@@ -1,8 +1,8 @@
 ##Goal
 **Join Facebook or Google or relevant full-time position in 6 months. (Self-growth)**
 
-|Index                | 
-| -------------       |
+|Index| 
+|:-------------:|
 |Algorithm Preparation| 
 |Work out Plan        |
 |Read                 |
