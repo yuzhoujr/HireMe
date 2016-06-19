@@ -1,11 +1,15 @@
 ##Goal
 **Join Facebook or Google or relevant full-time position in 6 months. (Self-growth)**
-  * Practice 70% of problems on lintcode twice
-  * Work out at least an hour a day
-  * Read
-  * Time management 
-  * British Accent
-  * Be curious
+
+|Index                | 
+| -------------       |
+|Algorithm Preparation| 
+|Work out Plan        |
+|Read                 |
+|Time management      |
+|British Accen        |
+|Be curious           |
+
 
 ##Algorithm Preparation
 **For Each Algorithm Problem, use the following rubric**
