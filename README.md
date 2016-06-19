@@ -1,5 +1,3 @@
-# HireMe
-
 ##Goal
 ### **Join Facebook or Google or relevant full-time position in 6 months. (Self-growth)**
   * Practice 70% of problems on lintcode twice
